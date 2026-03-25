@@ -4,7 +4,7 @@
 
 ## Установить:
 ### [Статическая ссылка на Raw-DEEPLINK (посмотреть на диплинк-ссылку)](https://raw.githubusercontent.com/updwa/SmartHapp-happ-routing/refs/heads/main/raw.deeplink)
-### [Статическая ссылка на Raw-JSON (голый JSON для примера конфига)](https://raw.githubusercontent.com/spanchy/2capyvpn-happ-routing/refs/heads/main/raw.json)
+### [Статическая ссылка на Raw-JSON (голый JSON для примера конфига)](https://raw.githubusercontent.com/updwa/SmartHapp-happ-routing/refs/heads/main/raw.json)
 
 ## Преимущества:
 1) [Кастомный geoip](https://github.com/spanchy/2capyvpn-geoip) - добавлены все РФ диапазоны IP (даже забугорные) от VK Company (Mail.Ru, OK, VK, My.Games/VK Games) и Яндекса (Yandex, Yandex.Cloud, Yandex.Disk итд). Добавлены диапазоны и IP-адреса: **Discord** (спасибо, [@fatyzzz](https://github.com/fatyzzz/)), **Threema** и общий список **Заблокированных IP в РФ** (спасибо, [@1andrevich](https://github.com/1andrevich/))
