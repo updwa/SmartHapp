@@ -14,7 +14,9 @@
     "LastUpdated": "1773905400",
     "DnsHosts": {},
     "RouteOrder": "block-direct-proxy",
-    "ProxySites": [],
+    "ProxySites": [
+         "geosite:gemini"
+    ],
     "DirectSites": [
         "geosite:apple",
         "geosite:category-ru",
