@@ -3,7 +3,7 @@
 #### Быстрый и универсальный роутинг, работает только для тех ресурсов, что указаны в правилах.
 
 ## Установить:
-### [Статическая ссылка на Raw-DEEPLINK (посмотреть на диплинк-ссылку)](https://raw.githubusercontent.com/spanchy/2capyvpn-happ-routing/refs/heads/main/raw.deeplink)
+### [Статическая ссылка на Raw-DEEPLINK (посмотреть на диплинк-ссылку)](https://raw.githubusercontent.com/updwa/SmartHapp-happ-routing/refs/heads/main/raw.deeplink)
 ### [Статическая ссылка на Raw-JSON (голый JSON для примера конфига)](https://raw.githubusercontent.com/spanchy/2capyvpn-happ-routing/refs/heads/main/raw.json)
 
 ## Преимущества:
