@@ -1,47 +1,41 @@
 {
-  "Name": "SmartHapp Routing",
-  "GlobalProxy": "true",
-  "RouteOrder": "block-direct-proxy",
-  "RemoteDNSType": "DoU",
-  "RemoteDNSDomain": "https://dns.google/dns-query",
-  "RemoteDNSIP": "8.8.8.8",
-  "DomesticDNSType": "DoH",
-  "DomesticDNSDomain": "https://dns.adguard-dns.com/dns-query",
-  "DomesticDNSIP": "94.140.15.15",
-  "Geoipurl": "https://raw.githubusercontent.com/updwa/SmartHapp-geoip/release/geoip.dat",
-  "Geositeurl": "https://raw.githubusercontent.com/updwa/SmartHapp-geosite/release/geosite.dat",
-  "LastUpdated": "1773905400",
-  "DnsHosts": {},
-  "DirectSites": [
-    "geosite:apple",
-    "geosite:category-ru",
-    "geosite:direct",
-    "geosite:epicgames",
-    "geosite:google-play",
-    "geosite:microsoft",
-    "geosite:origin",
-    "geosite:riot",
-    "geosite:steam"
-  ],
-  "DirectIp": [
-    "geoip:private",
-    "geoip:direct"
-  ],
-  "ProxySites": [
-    "geosite:gemini",
-    "gemini.google.com",
-    "gemini.googleapis.com",
-    "generativeai.google",
-    "aistudio.google.com",
-    "aiplatform.googleapis.com"
-  ],
-  "ProxyIp": [],
-  "BlockSites": [
-    "geosite:win-spy",
-    "geosite:torrent"
-  ],
-  "BlockIp": [],
-  "DomainStrategy": "IPIfNonMatch",
-  "FakeDNS": "false",
-  "UseChunkFiles": "true"
+    "Name": "SmartHapp Routing",
+    "GlobalProxy": "true",
+    "UseChunkFiles": "true",
+    "RemoteDns": "8.8.8.8",
+    "RemoteDNSType": "DoU",
+    "RemoteDNSDomain": "https://dns.google/dns-query",
+    "RemoteDNSIP": "8.8.8.8",
+    "DomesticDNSType": "DoH",
+    "DomesticDNSDomain": "https://dns.adguard-dns.com/dns-query",
+    "DomesticDNSIP": "94.140.15.15",
+    "Geoipurl": "https://raw.githubusercontent.com/updwa/SmartHapp-geoip/release/geoip.dat",
+    "Geositeurl": "https://raw.githubusercontent.com/updwa/SmartHapp-geosite/release/geosite.dat",
+    "LastUpdated": "1773905400",
+    "DnsHosts": {},
+    "RouteOrder": "block-direct-proxy",
+    "ProxySites": [],
+    "DirectSites": [
+        "geosite:apple",
+        "geosite:category-ru",
+        "geosite:direct",
+        "geosite:epicgames",
+        "geosite:google-play",
+        "geosite:microsoft",
+        "geosite:origin",
+        "geosite:riot",
+        "geosite:steam"
+    ],
+    "ProxyIp": [],
+    "DirectIp": [
+        "geoip:private",
+        "geoip:direct"
+    ],
+    "BlockSites": [
+        "geosite:win-spy",
+        "geosite:torrent"
+    ],
+    "BlockIp": [],
+    "DomainStrategy": "IPIfNonMatch",
+    "FakeDNS": "false"
 }
